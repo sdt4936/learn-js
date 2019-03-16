@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.hello{
+    color: brown;
+}
+.hello.java{
+    color: blue;
+}
+.hello .java{
+    color: rebeccapurple;
+}
+
+.hello > .java{
+    color: tomato;
+}
